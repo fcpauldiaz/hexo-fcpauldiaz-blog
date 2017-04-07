@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: FCPaulDiaz 
+title: FCPaulDiaz
 subtitle: Blog
 description:
 author: Pablo Díaz
@@ -68,5 +68,5 @@ theme: indigo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-- type: git
-  repo: https://github.com/fcpauldiaz/hexo-fcpauldiaz-blog
+- type: heroku
+  repo: https://git.heroku.com/fcpauldiaz-blog.git

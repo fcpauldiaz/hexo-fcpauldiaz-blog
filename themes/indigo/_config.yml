@@ -1,6 +1,6 @@
 menu:
   home:
-    text: Blog fcpauldiaz
+    text: FC
     url: /
   archives:
     url: /archives
@@ -12,8 +12,6 @@ menu:
   github:
     url: https://github.com/fcpauldiaz
     target: _blank
-
-rss: /atom.xml
 
 # Your avatar url
 avatar: /img/logo.png
@@ -49,8 +47,8 @@ share: true
 # Whether to open a reward, off reward: false
 reward:
   title: Thank you uncle
-  wechat: /img/wechat.jpg     #Micro letter, turn off set to false
-  alipay: /img/alipay.jpg     #Alipay, set off to false
+  wechat: false     #Micro letter, turn off set to false
+  alipay: false    #Alipay, set off to false
 
 # Whether to open the search
 search: true
