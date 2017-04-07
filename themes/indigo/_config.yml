@@ -1,0 +1,120 @@
+menu:
+  home:
+    text: Blog fcpauldiaz
+    url: /
+  archives:
+    url: /archives
+  tags:
+    url: /tags
+  th-list:
+    text: Categories
+    url: /categories
+  github:
+    url: https://github.com/fcpauldiaz
+    target: _blank
+
+rss: /atom.xml
+
+# Your avatar url
+avatar: /img/logo.png
+# Avatar Background
+brand: /img/brand.jpg
+# favicon
+favicon: /img/favicon.ico
+
+# email
+email: pabldiaz@newtonlabs.com.gt
+
+# Android L Chrome
+color: '#F44336'
+
+# Page title
+tags_title: Tags
+archives_title: Archives
+categories_title: Categories
+
+# article cut off
+excerpt_render: false
+excerpt_length: 200
+excerpt_link: Read full text...
+mathjax: false
+archive_yearly: true
+
+# Whether the article shows the last update time
+show_last_updated: true
+
+# Whether to open sharing
+share: true
+
+# Whether to open a reward, off reward: false
+reward:
+  title: Thank you uncle
+  wechat: /img/wechat.jpg     #Micro letter, turn off set to false
+  alipay: /img/alipay.jpg     #Alipay, set off to false
+
+# Whether to open the search
+search: true
+
+#Whether the big screen under the article page hidden navigation
+hideMenu: true
+
+# Whether to open toc
+# toc: false
+toc:
+  list_number: true  # Whether to display numeric sorting
+
+# Article page copyright statement content, hexo all variables and auxiliary functions can be called, please refer to hexo.io
+copyright: fcpauldiaz 2017：<a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" target="_blank" rel="external"><%- url.replace(/index\.html$/, '') %></a>
+
+# Webmaster statistics, such as to open, enter CNZZ site id, such as cnzz: 1255152447
+cnzz: false
+
+#Baidu statistics, such as to open, to your key
+baidu_tongji: false
+
+# Tencent analysis, if you want to open, enter the site id
+tajs: false
+
+# google
+google_analytics: false
+google_site_verification: false
+
+# less
+less:
+  compress: true
+  paths:
+    - source/css/style.less
+
+# Whether to open to say more comments, fill in the site you create more than two domain name
+duoshuo: ysblog
+#Whether to open more than comment count (the service is unstable)
+duoshuo_count: false
+# Use disqus when closing to say more comments
+disqus_shortname: false
+#Whether to open a friendly comment, fill in the friendly user id
+uyan_uid: false
+
+# Specification URL
+# Let the search engine redirect your different domain names, different subdomains, sites with different directories in the same domain to the path you want
+# https://support.google.com/webmasters/answer/139066
+# Assuming the configuration for canonical: http://imys.net, then from the search engine www.imys.net entry will redirect to imys.net
+canonical: false
+
+# Copyright starting year
+since_year: 2015
+
+# The descriptive text associated with the author in the user page, if not set to false
+about: The descriptive text associated with the author in the user page, if not set to false
+
+# "No garlic" traffic statistics, see http://ibruce.info/2015/04/04/busuanzi/
+visit_counter:
+  site_uv: Total number of visitors to the site：
+  site_pv: Site total visits：
+
+# Dynamically define title
+title_change:
+  normal: DevLife
+  leave: No More DevLife
+
+# Set to true after unpacking will use unpkg cdn
+cdn: true

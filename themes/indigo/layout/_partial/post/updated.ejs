@@ -1,0 +1,5 @@
+<% if(theme.show_last_updated){ %>
+<span class="post-time">
+    Last Updated <time datetime="<%- date_xml(post.updated) %>" itemprop="dateUpdated"><%- post.updated.format('YYYY:MM:DD H:mm') %></time>
+</span><br>
+<%} %>
