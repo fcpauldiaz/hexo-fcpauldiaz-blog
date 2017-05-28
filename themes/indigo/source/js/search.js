@@ -1,8 +1,10 @@
-(function () {
+(function (d) {
 
     var G = window || this,
         even = G.BLOG.even,
-        $ = G.BLOG.$,
+        body = d.body,
+        $ = d.querySelector.bind(d),
+        $$ = d.querySelectorAll.bind(d),
         searchIco = $('#search'),
         searchWrap = $('#search-wrap'),
         keyInput = $('#key'),
@@ -138,4 +140,4 @@
     keyInput.addEventListener('input', search);
     keyInput.addEventListener(even, search);
 
-}).call(this);
+})(document);

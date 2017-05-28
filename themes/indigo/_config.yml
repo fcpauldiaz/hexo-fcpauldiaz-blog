@@ -112,4 +112,4 @@ title_change:
   leave: No More DevLife
 
 # Set to true after unpacking will use unpkg cdn
-cdn: true
+cdn: false
