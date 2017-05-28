@@ -6,9 +6,6 @@ menu:
     url: /archives
   tags:
     url: /tags
-  th-list:
-    text: Categories
-    url: /categories
   github:
     url: https://github.com/fcpauldiaz
     target: _blank
@@ -45,10 +42,10 @@ show_last_updated: true
 share: true
 
 # Whether to open a reward, off reward: false
-reward:
-  title: Thank you uncle
-  wechat: false     #Micro letter, turn off set to false
-  alipay: false    #Alipay, set off to false
+reward: false
+  # title: Thank you uncle
+  # wechat: false     #Micro letter, turn off set to false
+  # alipay: false    #Alipay, set off to false
 
 # Whether to open the search
 search: true
@@ -84,11 +81,11 @@ less:
     - source/css/style.less
 
 # Whether to open to say more comments, fill in the site you create more than two domain name
-duoshuo: ysblog
+duoshuo: false
 #Whether to open more than comment count (the service is unstable)
 duoshuo_count: false
 # Use disqus when closing to say more comments
-disqus_shortname: false
+disqus_shortname: fcpauldiaz-1
 #Whether to open a friendly comment, fill in the friendly user id
 uyan_uid: false
 
