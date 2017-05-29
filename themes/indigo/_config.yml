@@ -99,7 +99,7 @@ canonical: false
 since_year: 2015
 
 # The descriptive text associated with the author in the user page, if not set to false
-about: The descriptive text associated with the author in the user page, if not set to false
+about: Computer Scientist at Newton Labs. #devLife. Guitarist.
 
 # "No garlic" traffic statistics, see http://ibruce.info/2015/04/04/busuanzi/
 visit_counter:

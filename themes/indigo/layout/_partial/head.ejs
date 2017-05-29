@@ -44,6 +44,7 @@
     %>
     <meta name="keywords" content="<%= keyWords %>">
     <%- open_graph({twitter_id: theme.twitter, google_plus: theme.google_plus, fb_admins: theme.fb_admins, fb_app_id: theme.fb_app_id}) %>
+    <meta name="twitter:image" content="http://fcpauldiaz.com/img/logo.png" />
     <% if (theme.rss){ %>
         <link rel="alternative" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
     <% } %>
