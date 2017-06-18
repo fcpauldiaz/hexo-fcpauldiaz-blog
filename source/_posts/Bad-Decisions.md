@@ -1,3 +1,9 @@
+---
+title: Bad Decisions
+date: 2017-06-18 11:45:25
+tags:
+public: false
+---
 Hola,
 
 Todavía recuerdo el primer día que te conocí, bueno tal vez te conocí antes pero ese día te dije que te amaba y para mí ese fue el primer día que te recuerdo. Realmente no te dije que te amaba pero tu lo dijiste por mí. Estabámos en clase de historia del arte con Milu, yo tenía mi ipod de última generación y tenía facebook como aplicación. No recuerdo si yo me senté a la par tuyo o al revés, no importa. No recuerdo haberte hablado antes pero tenías tanta felicidad en ti en mi recuerdo y en esa clase. Te presté mi ipod porque creo que era nuevo y pusiste en facebook que te amaba cuando apenas si nos conocíamos, creo que ni siquiera nos tratábamos de tú todavía (¿qué raro no?). Deseé tanto que fuera verdad en ese momento, me recuerdo que ni siquiera borré el post y que Ricky me preguntó: ¿Por qué no lo borras? Le dije cualquier cosa para que lo olvidara pero dentro de mí sabía que quería que algún día fuera cierto y lo fue.
