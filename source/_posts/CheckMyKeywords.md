@@ -1,5 +1,5 @@
 ---
-title: Building a Parallel Scraper 😜
+title: Building a Parallel Scraper  👀
 date: 2018-01-31 11:31:47
 tags:
     - scraper
