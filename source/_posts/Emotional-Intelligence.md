@@ -35,3 +35,17 @@ Research suggest thtat our range of emotional skills is relatively set by our mi
 4. How do I make a change stick? Repeatedly rehearse new behaviors, physically and mentally - until they are automatic.
 5. Who can help you ? Don't try to build your emotional skills alone - identify others who can help you naviate this difficult process. managers formed learning groups that helped them strengthen their leadershp abilities by exchanging frank feedback and dveloping mutual trust.
 
+## Why it's so hard to be fair
+
+Each employe decides for themlselve whether a decision has been made fairly. There are three drivers of process fairness. 
+
+1. How much input employees believe they have in the decision-making process.
+2. How employees believe decisions are made and implemented.
+3 How managers behave.
+
+Process fariness doesn't ensure that employees will always get what they want; but it does mean that hey will have a change to be heard. When people feel hurt by their companies, they tend to retailate. And when they do, it can have grave consequences. In addition to reducing legal costs, fai process cuts down on employee theft and turnover. Work environments in which employees jave a high degree of operational autonomy lead to the highers degree of creativity and innovation. Operational autonomy, of course can be seen as the extreme version of process fairness. Creativity and innovation tendo to suffer in work environments characterized by low levels of process fairness, such as when employees believe that the organizatino is strictly controller by upper management or when they believe that their ideas will be summarily dismissed.
+
+
+
+
+* Taken from HBR's 10 Must Read on Emotional Intelligence.
